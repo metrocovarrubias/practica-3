@@ -1,0 +1,5 @@
+C:\Users\mario\Documents\SharpDevelop Projects\practic 3\practic 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mario\Documents\SharpDevelop Projects\practic 3\practic 3\bin\Debug\practic 3.exe
+C:\Users\mario\Documents\SharpDevelop Projects\practic 3\practic 3\bin\Debug\practic 3.pdb
+C:\Users\mario\Documents\SharpDevelop Projects\practic 3\practic 3\obj\Debug\practic 3.exe
+C:\Users\mario\Documents\SharpDevelop Projects\practic 3\practic 3\obj\Debug\practic 3.pdb
